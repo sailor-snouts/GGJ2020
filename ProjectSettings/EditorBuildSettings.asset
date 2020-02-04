@@ -6,6 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/pigsquad.unity
+    guid: 4e93fe23ed00ff14f8f24c2b944385d0
+  - enabled: 1
+    path: Assets/Scenes/SailorSnouts.unity
+    guid: 74a4882ea57d9014880bf764b21c8d0e
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9a4869304fbd6c64fa3d410fd23976d6
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: aff09b58a50a1e74791c69aec6909557
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a124eb1f589edf24b9350957fa47a05b
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 3b58d194e420e004dad847118b9175ac,
+      type: 2}
